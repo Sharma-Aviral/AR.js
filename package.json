@@ -1,0 +1,23 @@
+{
+  "name": "arjs",
+  "version": "1.0.0",
+  "description": "README.mdgit remote add origin https://github.com/DominusTempori/AR.js.git\r git branch -M master\r git push -u origin master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominusTempori/AR.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominusTempori/AR.js/issues"
+  },
+  "homepage": "https://github.com/DominusTempori/AR.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
